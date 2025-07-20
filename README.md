@@ -15,7 +15,7 @@
 ## 🗂️ Projects I'm Working On
 - `coding-warmups`: Python problems + solutions
 - `html-portfolio`: A personal web page built with basic HTML and CSS
-- `easter-countdown-timer`: A festive, themed countdown project using JavaScript, with animations and a pop-up when the timer ends
+- `pawcast`: A cozy, pixel-style weather app featuring animated cats, real-time weather updates, 7-day forecast, and “Kitty Comments” with outfit suggestions. Includes background LoFi music, time-based themes (pastel mornings, dark cozy nights), and a personalized credit pop-up starring my own cats 😽
 
 ---
 
