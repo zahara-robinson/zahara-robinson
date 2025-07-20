@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Zahara 👩🏾‍💻💖
+✨ First-year Computer Science student  
+📍 Based in Maryland (manifesting NYC soon 🗽)  
+🎯 Tech career goals: Google, Meta, IBM, Microsoft  
 
-<!--
-**zahara-robinson/zahara-robinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- Python, HTML, CSS, Java & GO
+- Data Structures & Algorithms
+- Git + GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ Projects I'm Working On
+- `coding-warmups`: Python problems + solutions
+- `html-portfolio`: A personal web page built with basic HTML and CSS
+- `easter-countdown-timer`: A festive, themed countdown project using JavaScript, with animations and a pop-up when the timer ends
+
+---
+
+## 💬 Let’s Connect
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zahara-robinson-36a12535b/))
+- 📫 Email: zaharaarts3@gmail.com
+- 🌐 GitHub Projects below ↓
