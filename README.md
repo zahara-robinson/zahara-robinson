@@ -20,6 +20,6 @@
 ---
 
 ## 💬 Let’s Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/zahara-robinson-36a12535b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/zunrah-robinson-36a12535b/)
 - 📫 Email: zaharaarts3@gmail.com
 - 🌐 GitHub Projects below ↓
