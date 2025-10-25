@@ -15,7 +15,8 @@
 
 ## 🗂️ Projects I'm Working On
 
-- [`python-study-guild`](https://github.com/zahara-robinson/Python-Study-Guild): My personal learning journey through Python — organized by topic with examples, color-coded notes, and explanations for every concept.
+- [`python-study-guild`](https://github.com/zahara-robinson/Python-Study-Guild): My personal learning journey through Python — organized by topic with examples, and explanations for every concept.
+- [`JavaScript-Study-Guild`](https://github.com/zahara-robinson/JavaScript-Study-Guild): My personal learning journey through JavaScript — organized by topic with examples, and explanations for every concept.
 
 ---
 
