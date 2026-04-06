@@ -1,7 +1,9 @@
 # Hi there 👋, I’m Zahara or Zunnie 💗
 
 💻 Aspiring Software Engineer
+
 📍 Based in Maryland — aiming for NYC & global tech opportunities 
+
 🎯 Preparing for future roles in the Computer Science career path.
 
 ---
